@@ -1,0 +1,10 @@
+#welcome-form, #chat-room {
+    display: none;
+}
+
+#messages {
+    border: 1px solid #ddd;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+}
