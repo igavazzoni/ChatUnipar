@@ -18,7 +18,7 @@ function enterChatRoom() {
 
     function connect() {
 
-        var socket = new SockJS('https://75a5d5e89ffe.ngrok.app/chat-websocket', {
+        var socket = new SockJS('https://9e7df17fa210.ngrok.app/chat-websocket', {
             headers: {
                 'ngrok-skip-browser-warning': 'true'
             }
